@@ -56,3 +56,8 @@ curl -X POST http://localhost:4000/predict \
 -H 'Content-Type: application/json' \
 -d '{"features": [5.1, 3.5, 1.4, 0.2]}'
 ```
+
+
+## Screen shot
+
+![Docker img](images/docker.png "Docker Image ss")
